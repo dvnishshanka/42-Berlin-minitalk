@@ -48,5 +48,5 @@ This is a simple client-server communication program in C that allows the client
   ./client 12345 "Hello, server! This is a test message."
   ```
   
-**Result: :one::zero::zero: / :one::zero::zero: :heavy_check_mark:**
+**Result: :one::two::five: / :one::zero::zero: :heavy_check_mark:**
 
